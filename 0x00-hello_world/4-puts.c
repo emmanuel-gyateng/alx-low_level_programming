@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  *
- *  * main - prints the phrase "Programming is like builda multilingual puzzle
+ *   main - prints the phrase "Programming is like builda multilingual puzzle
  *
- *   * Return: 0 if exited properly, non-zero otherwise
+ *   Return: 0 if exited properly, non-zero otherwise
  *
  * */
 
